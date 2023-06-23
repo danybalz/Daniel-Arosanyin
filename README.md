@@ -19,7 +19,7 @@ Here are some of the skills and tools I'm proficient in using:
 - Adobe Photoshop
 - Coreldraw
 - Figma
-- AdobeXd
+- Adobexd
 
 
 
