@@ -12,11 +12,15 @@ Here are some of the skills and tools I'm proficient in using:
 [![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css)](https://github.com/danybalz)
 [![JavaScript](https://img.shields.io/badge/css-black?style=for-the-badge&logo=javascript)](https://github.com/danybalz)
 
-HTML CSS JavaScript UI/UX Adobe Photoshop Coreldraw Figma Adobexd
+- HTML
+- CSS
+- JavaScript
+- UI/UX
+- Adobe Photoshop
+- Coreldraw
+- Figma
+- AdobeXd
 
-- HTML, CSS, JS,
-- 0S
-- Windows Linux
 
 
 ## 0S
